@@ -332,9 +332,8 @@ def main() :
     # part a: main code for visualizations
     print('part (a):')
     print ('Visualizing data...')
-    #TODO: delete comment
-    #train_data.plot()
-    #test_data.plot()
+    train_data.plot()
+    test_data.plot()
     print ()
     
     ### ========== TODO : END ========== ###
